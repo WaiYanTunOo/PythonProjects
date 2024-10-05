@@ -39,14 +39,14 @@ Here is a list of the mini-projects included in this repository:
    (Optional) Set up a virtual environment:
 
 2. (Optional) Set up a virtual environment:
-
-python3 -m venv venv
-source venv/bin/activate  # Linux/macOS
-.\venv\Scripts\activate   # Windows
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # Linux/macOS
+   .\venv\Scripts\activate   # Windows
 
 3. Install the required dependencies (if any):
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 Usage
 
@@ -63,14 +63,16 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
   1.  Fork the repository.
   2.  Create a new branch for your feature:
-     
-  git checkout -b feature-name
+      ```bash
+     git checkout -b feature-name
 
 3. Make your changes.
 4. Commit your changes:
-git commit -m "Add new feature: feature description"
+   ```bash
+   git commit -m "Add new feature: feature description"
 
 5. Push to your fork:
-git push origin feature-name
+   ```bash
+   git push origin feature-name
 
 6. Create a pull request.
