@@ -64,7 +64,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
   1.  Fork the repository.
   2.  Create a new branch for your feature:
       ```bash
-     git checkout -b feature-name
+      git checkout -b feature-name
 
 3. Make your changes.
 4. Commit your changes:
